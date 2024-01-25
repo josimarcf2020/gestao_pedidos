@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AtivPrat11Ativ4</string>
+    <string name="img_logo">Atendimento Eficiente</string>
+    <string name="edt_desk">Número da mesa</string>
+    <string name="edt_passw">Senha da mesa</string>
+    <string name="btn_Login">Iniciar Atendimento</string>
+    <string name="txt_lostPassw">Cadastrar NOVA SENHA</string>
+    <string name="txt_newDesk">Cadastrar nova mesa</string>
+</resources>
